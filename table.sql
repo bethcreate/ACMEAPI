@@ -1,0 +1,9 @@
+
+CREATE TABLE IF NOT EXISTS games(
+    
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  name TEXT NOT NULL,
+  description REAL NOT NULL,
+  price INTEGER NOT NULL,
+
+)

@@ -31,7 +31,7 @@ Running the app
 
 ##
 
-$ flask run
+$ python app.py
 
 
 
