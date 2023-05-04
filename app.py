@@ -1,5 +1,5 @@
 from flask import Flask, jsonify, request
-import models
+from flask_appbuilder import models
 from db import create_tables
 
 
